@@ -65,12 +65,14 @@ Instalação do Programa
 - Password: 1234
 
 Parte de visualização
+
 A aplicação de Sistema de Gerenciamento Escolar tem como principal objetivo ser uma 
 ferramenta completa que gerencie, de forma integrada, todos os recursos necessários para o 
 planejamento, execução e monitoramento de atividades escolares. Esta aplicação tem como 
 público-alvo secretarias, setores pedagógicos de escolas de ensino regular e profissionalizante. 
 
 Nossa aplicação possui:
+
 • Tela de login
 • Tela de Dashboard Gerencial
 • Tela de cadastro
