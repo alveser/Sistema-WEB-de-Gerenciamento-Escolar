@@ -4,12 +4,19 @@ Sistema WEB de Gerenciamento Escolar que cria cronogramas de aulas para os profe
 Integrantes
 
 Hemerson Lopes Barros Braga 
+
 Glaucia Alves e Silva 
+
 Douglas Fernando Gonçalves 
+
 Evandro Ribeiro Alves 
+
 Jessica Batista Teixeira
+
 Igor da Costa Silveira Pestana 
+
 Gillian Ferreira dos Santos Rocha 
+
 Pablo Leandro Pippi
 
 Instalação do Programa
@@ -74,8 +81,14 @@ público-alvo secretarias, setores pedagógicos de escolas de ensino regular e p
 Nossa aplicação possui:
 
 • Tela de login
+
 • Tela de Dashboard Gerencial
+
 • Tela de cadastro
+
 • Tela de relatório
+
 • Tela do professor
+
 • Tela de configuração do usuário
+
