@@ -74,7 +74,7 @@ Pablo Leandro Pippi
 
 # Parte de visualização
 
-A aplicação de Sistema de Gerenciamento Escolar tem como principal objetivo ser uma 
+## A aplicação de Sistema de Gerenciamento Escolar tem como principal objetivo ser uma 
 ferramenta completa que gerencie, de forma integrada, todos os recursos necessários para o 
 planejamento, execução e monitoramento de atividades escolares. Esta aplicação tem como 
 público-alvo secretarias, setores pedagógicos de escolas de ensino regular e profissionalizante. 
