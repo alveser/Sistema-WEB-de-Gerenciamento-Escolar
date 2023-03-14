@@ -23,7 +23,7 @@ Instalação do Programa
 
 #Server
 1.Instalar o Wamp Server
-- Entrar no diretório "WampServer"
+- Entrar no Google Drive https://drive.google.com/drive/folders/1OkJu3Y4nvVREX7sPR50_Yx6gAoKZpzSm?usp=sharing
 - Duplo click no arquivo "wampserver3.30_x64"
 
 2.Iniciar Wamp Server.
